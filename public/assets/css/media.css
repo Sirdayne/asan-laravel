@@ -1,0 +1,702 @@
+/* mobile HEIGHT fixes */
+@media only screen and (max-height : 1500px) {
+    
+}
+
+@media only screen and (max-height : 900px) {
+    .h-main{
+        top: calc(55% - 300px);
+        width: 200px;
+        left: calc(50% - 100px);
+    }
+    .h-txt-1, .h-txt-2{
+        position: absolute;
+        font-size: 72px;
+        font-weight: bold;
+
+        color: #3b3b3b;
+
+        z-index: 4;
+    }
+    .h-txt-small{
+        font-size: 52px;
+    }
+    .h-txt-1{
+        top: calc(55% - 240px);
+        right: calc(50% + 63px);
+    }
+    .h-txt-2{
+        top: calc(55% - 150px);
+        left: calc(50% + 65px);
+    }
+    
+    .s-2-right p{
+        font-size: 16px;
+
+    }
+}
+    
+
+@media only screen and (max-height : 600px) {
+    
+}
+
+
+/* mobile WIDTH fixes */
+@media only screen and (max-width : 1700px) {
+    .town-almaty{
+        top: 68%;
+        right: 15%;
+    }
+    .town-shymkent{
+        bottom: 11%;
+        right: 39%;
+    }
+    .town-aktobe{
+        top: 50%;
+        left: 25%;
+    }
+} 
+
+@media only screen and (max-width : 1300px) {
+    .commands-part{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .catalog-title{
+        font-size: 25px;
+        line-height: 27px;
+    }
+    .catalog-category{
+        width: 100%;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width : 1250px) {
+    .ap-text p{
+        font-size: 17px;
+    }
+    .recipe-title{
+        font-size: 18px;
+        line-height: 19px;
+    }
+    .part-box img{
+        width: 50%;
+    }
+    
+    .part-box{
+        height: 300px;
+    }
+    .part-hover span{
+        margin-top: 70px;
+        font-size: 18px;
+    }
+    .part-text{
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width : 1100px) {
+    .sc-img{
+        height: 90%;
+    }
+
+    .s-map-left{
+        width: 50%;
+        margin-right: 25%;
+        margin-left: 25%;
+        text-align: center;
+    }
+    /*
+    .s-map-left img{
+        width: 300px;
+        min-width: 300px;
+    }
+    */
+    .s-map-right{
+        width: 100%;
+        margin-left: 0;
+    }
+    .map-title{
+        margin-top: 30px;
+        margin-right: calc(50% - 150px);
+        margin-left: calc(50% - 150px);
+    }
+    .call-button{
+        margin-left: calc(50% - 100px);
+    }
+}
+@media only screen and (max-width : 1000px) {
+    .adv-1{
+        width: 50%;
+    }
+    .adv-mob{
+        display: block;
+        margin-bottom: 20px;
+    }
+    .adv-desc{
+        display: none;
+    }
+    
+    .ap-box{
+        width: 50%;
+    }
+}
+@media only screen and (max-width : 900px) {
+    
+    .town-shymkent{
+        bottom: 11%;
+        right: 38%;
+    }
+    .navigation{
+        padding-top: 0;
+        padding-bottom: 0;
+        height: 66px;
+    }
+    .nav, .nav-logo{
+        display: none;
+    }
+    .nav-mob, .mob-logo, .burger{
+        display: block;
+    }
+    .h-main{
+        width: 200px;
+        left: calc(50% - 100px);
+    }
+    .h-txt-1, .h-txt-2{
+        font-size: 50px;
+    }
+    .h-txt-small{
+        font-size: 30px;
+    }
+    .s-3{
+        display: none;
+    }
+    .s-3-mob{
+        display: block;
+    }
+    .s-icon{
+        margin-top: 25px;
+    }
+    .s-txt{
+        font-size: 15px;
+    }
+    .a-header-img{
+        width: 90%;
+        margin: 20px 5% 0;
+        height: auto;
+    }
+    .a-header-text{
+        width: 90%;
+        margin: 0 5%;
+        height: auto;
+        
+        padding-bottom: 20px;
+    }
+    .a-header-img img{
+        display: block;
+        float: none;
+        margin: 0 auto;
+        width: 110px;
+    }
+    .a-map{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .a-map-text{
+        width: 100%;
+        margin: 20px 0 0;
+        height: auto;
+    }
+    .a-map-img{
+        width: 100%;
+        margin: 20px 0 0;
+        height: auto;
+        
+        padding-bottom: 20px;
+    }
+    .a-map-img img{
+        display: block;
+        float: none;
+        margin: 0 auto;
+        
+        height: 200px;
+    }
+    
+    .contacts-box, .commands-box{
+        width: 100%;
+    }
+    .header-contacts h1, .recipes h1, .header-partners h1, .catalog h1{
+        font-size: 25px;
+        
+        margin-top: 50px;
+        margin-bottom: 45px;
+    }
+    .rcp-title{
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    
+    
+    .recipe-box, .catalog-box{
+        width: 50%;
+    }
+    
+    .ing-txt h1{
+        display: none;
+    }
+    .ing-title-mob{
+        display: block;
+    }
+    .ing-img{
+        width: 100%;
+    }
+    .ing-txt{
+        width: 100%;
+    }
+    .r-next, .r-prev{
+        top: 185px;
+    }
+    
+    .tovar-left img{
+        width: 80%;
+    }
+    .tovar-title{
+        font-size: 20px;
+    }
+    
+    .ac-partext{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+    .part-box{
+        width: 50%;
+    }
+    
+    .part-5{
+        background: #a9c962;
+    }
+    .part-4{
+        background: #f0cd59;
+    }
+    .part-6{
+        background: #b9e3f1;
+    }
+    
+    .recipe-mob{
+        background: #fcce4e;
+    }
+}
+@media only screen and (max-width : 850px) { 
+    .s-2-left img{
+        width: 80%;
+        min-width: auto;
+    }
+    .s-2-right p{
+        margin-top: 0;
+        width: 100%;
+        min-width: auto;
+    }
+}
+@media only screen and (max-width : 800px) { 
+    
+    
+    .town-shymkent{
+        bottom: 11%;
+        right: 40%;
+    }
+
+    
+    .catalog-filter{
+        margin: 0 25px 25px 25px;
+    }
+    .animation{
+        display: none;
+    }
+    .s-clients{
+        padding-bottom: 40px;
+    }
+    .modal{
+        margin: 50px auto;
+        width: 90%;
+        min-height: 300px;
+    }
+    .a-contacts input, .modal input{
+        width: 60%;
+        margin-left: calc(20% - 4px);
+        margin-right: calc(20% - 4px);
+        margin-top: 20px;
+        
+    }
+    .send-btn{
+        margin-top: 20px;
+    }
+    .ac-title{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+    .s-map-left{
+        width: 90%;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+}
+@media only screen and (max-width : 750px) { 
+    .map-inner{
+        width: 100%;
+        top: 0;
+        right: 0;
+        
+        padding: 25px 15%;
+        box-sizing: border-box;
+    }
+    .mapin-title{
+        text-align: center;
+        
+        padding: 0;
+    }
+    .h-txt-1, .h-txt-2{
+        font-size: 35px;
+    }
+    .h-txt-small{
+        font-size: 17px;
+    }
+    .h-txt-1{
+        top: calc(60% - 250px);
+        right: calc(50% + 63px);
+    }
+    .h-txt-2{
+        top: calc(60% - 150px);
+        left: calc(50% + 55px);
+    }
+    .h-main{
+        width: 150px;
+        left: calc(50% - 75px);
+        top: calc(50% - 250px);
+    }
+    .sl-img-1, .sl-img-2{
+        height: 50px;
+        width: 50px;
+    }
+    .sl-img-1{
+        right: calc(40% - 100px);
+    }
+    .sl-img-2{
+        right: calc(40% - 175px);
+    }
+    .h-arrow-right, .h-arrow-left{
+        top: 26%;
+        height: 43px;
+        width: 23px;
+    }
+    
+    .header h1{
+        bottom: 30%;
+    }
+    .h-btn-1{
+        bottom: 16%;
+        left: calc(50% - 110px);
+    }
+    .h-btn-2{
+        bottom: 5%;
+        left: calc(50% - 110px);
+        padding: 15px 21.5px;
+    }
+    .s-2{
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+    .foot-part, .foot-line{
+        display: none;
+    }
+    .footer-left{
+        margin-bottom: 15px;
+    }
+    .footer-left img{
+        height: 50px;
+    }
+    .footer-right{
+        width: 100%;
+        margin-left: 0;
+    }
+    .footer-navigation p{
+        margin-top: 7px;
+        margin-right: 0;
+        
+        font-size: 17px;
+        width: 100%;
+        
+        text-align: center;
+        
+        text-transform: uppercase;
+        font-weight: normal;
+        
+        font-family: "AgoraSansProMedium";
+    }
+    
+    .s-map h1{
+        font-size: 17px;
+        line-height: 17px;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+    .recipe-btn{
+        padding: 12px 7px;
+        font-size: 16px;
+    }
+    .tovar-title{
+        margin-top: 25px;
+        font-size: 18px;
+    }
+    .tovar-desc{
+        font-size: 16px;
+    }
+    .tovar-title, .tovar-desc, .tovar-button-wrap{
+        text-align: left;
+    }
+    .tovar-right{
+        margin-left: 4%;
+    }
+    
+    .slick-prev{
+        left: -55px !important;
+    }
+    .slick-next{
+        right: -10px !important;
+    }
+    
+    .as-title{
+        font-size: 18px;
+    }
+    
+    .gi-line{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        
+    }
+    .gi-sentence{
+        text-align: center;
+        padding: 15px 0 0;
+    }
+}
+
+@media only screen and (max-width : 600px) { 
+    
+    
+    .town-shymkent{
+        bottom: 11%;
+        right: 39%;
+    }
+
+    
+    .adv-1{
+        width: 100%;
+    }
+    .ap-box{
+        width: 100%;
+    }
+    .recipe-box, .catalog-box{
+        width: 100%;
+    }
+    .part-box{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    
+    .ap-hover{
+        top: 0;
+    }
+    
+    .sc-img{
+        height: 60%;
+    }
+    
+    .catalog-wrap{
+        display: none;
+    }
+    .catalog-btn-mob{
+        display: inline-block;
+        margin-top: 3px;
+        margin-bottom: 20px;
+    }
+    .catalog-box{
+        height: auto;
+    }
+    .catalog-filters{
+        margin-bottom: 5px;
+    }
+}
+
+@media only screen and (max-width : 500px) { 
+    .nav-mob p{
+        font-size: 11px;
+    }
+    .burger{
+        margin-right: 80px;
+    }
+    .mob-logo{
+        width: calc(100% - 300px);
+    }
+    .s-2-right p{
+        font-size: 14px;
+    }
+    .s-2-left, .s-2-right{
+        width: 96%;
+        margin: 10px 2%;
+    }
+    .s-2-left{
+        text-align: center;
+    }
+    .s-2-left img{
+        width: 40%;
+    }
+    .commands-title{
+        margin-bottom: 10px;
+    }
+    .commands-part{
+        margin-top: 35px;
+        width: 100%;
+    }
+    .commands-box{
+        padding-bottom: 20px;
+    }
+    .contacts-title{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .town-shymkent{
+        bottom: 11%;
+        right: 38%;
+    }
+    .town-aktobe{
+        top: 48%;
+        left: 24%;
+    }
+
+}
+    
+@media only screen and (max-width : 450px) { 
+    .h-main{
+        width: 100px;
+        left: calc(50% - 50px);
+    }
+    
+    .sl-img-1, .sl-img-2{
+        height: 30px;
+        width: 30px;
+    }
+    .sl-img-1{
+        right: calc(40% - 60px);
+    }
+    .sl-img-2{
+        right: calc(40% - 105px);
+    }
+    
+    .h-txt-1, .h-txt-2{
+        font-size: 25px;
+    }
+    .h-txt-small{
+        font-size: 13px;
+    }
+    .h-txt-1{
+        right: calc(50% + 43px);
+    }
+    .h-txt-2{
+        left: calc(50% + 38px);
+    }
+    
+    .header h1{
+        bottom: 37%;
+        width: 90%;
+        left: 5%;
+    }
+    .h-btn-1{
+        bottom: 20%;
+    }
+    .h-btn-2{
+        bottom: 8%;
+    }
+    .a-map-img img{
+        height: 150px;
+    }
+    
+    .tovar-title{
+        margin-top: 5px;
+    }
+    
+    .part-box{
+        padding-bottom: 0;
+    }
+    
+    .aph-title{
+        font-size: 17px;
+    }
+    .aph-text{
+        font-size: 15px;
+    }
+    .adv-title{
+        font-size: 22px;
+    }
+    .contacts-title, .commands-title{
+        font-size: 18px;
+    }
+    
+    .nav-mob{
+        display: none;
+    }
+    
+    
+    .sc-img, .sc-img-4{
+        display: none;
+    }
+    
+    .s-icon, .s-txt, .s-text, .s-plus{
+        margin-right: 10%;
+        margin-left: 10%;
+        width: 80%;
+    }
+    
+    .s-box-mob{
+        height: auto;
+        min-height: 230px;
+    }
+    
+    .town-almaty{
+        top: 66%;
+        right: 14%;
+    }
+ 
+}
+
+@media only screen and (max-width : 350px) { 
+    .burger{
+        margin-right: 50px;
+    }
+    
+    .town-title{
+        font-size: 11px;
+    }
+    .town-almaty{
+        top: 64%;
+        right: 13%;
+    }
+    .town-shymkent{
+        bottom: 12%;
+        right: 35%;
+    }
+    .town-aktobe{
+        top: 46%;
+        left: 23%;
+    }
+}
