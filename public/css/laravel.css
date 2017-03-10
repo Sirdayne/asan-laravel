@@ -129,18 +129,17 @@
 }
 .lara-section label{
     display: block;
-    margin: 5px 5px 5px 0;
+    margin: 15px 5px 5px 0;
 
     border: none;
     outline: none;
 
     font-family: "AgoraSansProMedium";
 
-    padding: 9px 25px;
+    padding: 2px;
 
-    border: 1px solid #d99647;
     font-size: 15px;
-    color: #d99647;
+    color: #323232;
 
     width: 190px;
 

@@ -33,15 +33,15 @@
         
         <div id="js-ings">
             <div class="add-ing">
-                <textarea name="ingredients[]" class="lara-textarea-small" placeholder="Напишите ингредиент"></textarea>
+                <input name="ingredients[]" placeholder="Напишите ингредиент">
                 <div class="ing-delete"><img src="/assets/img/new-delete.png" alt=""></div>
             </div>
             <div class="add-ing">
-                <textarea name="ingredients[]" class="lara-textarea-small" placeholder="Напишите ингредиент"></textarea>
+                <input name="ingredients[]" placeholder="Напишите ингредиент">
                 <div class="ing-delete"><img src="/assets/img/new-delete.png" alt=""></div>
             </div>
             <div class="add-ing">
-                <textarea name="ingredients[]" class="lara-textarea-small" placeholder="Напишите ингредиент"></textarea>
+                <input name="ingredients[]" placeholder="Напишите ингредиент">
                 <div class="ing-delete"><img src="/assets/img/new-delete.png" alt=""></div>
              </div>
         </div>

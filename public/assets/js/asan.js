@@ -403,7 +403,7 @@ $(document).ready(function(){
     
 
     $('#js-add-ing').click(function () {
-        $('#js-ings').append('<div class="add-ing"><textarea name="ingredients[]" class="lara-textarea-small" placeholder="Напишите ингредиент"></textarea><div class="ing-delete"><img src="/assets/img/new-delete.png" alt=""></div></div>');
+        $('#js-ings').append('<div class="add-ing"><input name="ingredients[]" placeholder="Напишите ингредиент"><div class="ing-delete"><img src="/assets/img/new-delete.png" alt=""></div></div>');
     });
 
     $('body').on('click','.ing-delete',function(){

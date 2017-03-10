@@ -29,7 +29,11 @@
         <input type="hidden" name="id" value="{{ $recipe->id }}">
         <input type="text" name="title" placeholder="Заголовок" value="{{ $recipe->title }}">
         <input type="file" name="image">
-
+        <label for="ingredients">Ингредиенты:</label>
+        @foreach($recipe->ingredients as $ingredient)
+            <input name="ingredients[]" placeholder="Напишите ингредиент" value="{{ $ingredient->body }}">
+        @endforeach
+        <label for="ingredients">Шаги рецепта:</label>
         @foreach($recipe->steps as $step)
             <textarea name="steps[]" class="lara-textarea-small" placeholder="Напишите шаг рецепта">{{ $step->body }}</textarea>
         @endforeach
