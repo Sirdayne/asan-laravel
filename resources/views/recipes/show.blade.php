@@ -22,19 +22,12 @@
                 <h1>{{ $recipe->title }}</h1>
                 
                 <h2>Ингредиенты:</h2>
-              
                 
-                <div class="ing-left">
+                <div class="ing-block">
                     @foreach($recipe->ingredients as $ingredient)
-                        <p>{{ $ingredient->body }}</p>
+                        <div class="ing-box">{{ $ingredient->body }}</div>
                     @endforeach
                 </div>
-                
-
-                <div class="ing-right">
-                    
-                </div>
-
       
             </div>
             

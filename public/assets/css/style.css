@@ -1853,6 +1853,21 @@ body{
     font-size: 16px;
     font-family: "AgoraSansProRegular";
 }
+.ing-block{
+    display: block;
+    width: 100%;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+.ing-box{
+    display: block;
+    font-size: 16px;
+    font-family: "AgoraSansProRegular";
+    margin: 1px;
+    width: auto;
+    height: auto;
+}
 
 .r-prev{
     position: absolute;
