@@ -17,13 +17,13 @@ Route::get('/contacts', 'PagesController@contacts');
 Route::get('/partners', 'PagesController@partners');
 Route::get('/catalog', 'PagesController@catalog');
 
-Route::get('/posts', 'PostsController@index');
-Route::get('/posts/create', 'PostsController@create');
-Route::post('/posts/store', 'PostsController@store');
-Route::get('/posts/{post}', 'PostsController@show');
-Route::get('/posts/edit/{post}', 'PostsController@edit');
-Route::post('/posts/update', 'PostsController@update');
-Route::get('/posts/destroy/{post}', 'PostsController@destroy');
+Route::get('/recipes', 'RecipesController@index');
+Route::get('/recipes/create', 'RecipesController@create');
+Route::post('/recipes/store', 'RecipesController@store');
+Route::get('/recipes/{recipe}', 'RecipesController@show');
+Route::get('/recipes/edit/{recipe}', 'RecipesController@edit');
+Route::post('/recipes/update', 'RecipesController@update');
+Route::get('/recipes/destroy/{recipe}', 'RecipesController@destroy');
 
 Route::post('/feedback/send_mail', 'FeedbackController@send_mail');
 Route::post('/feedback/send_calc', 'FeedbackController@send_calc');
@@ -38,6 +38,7 @@ Route::get('/logout', 'SessionsController@destroy');
 
 Route::group( ['middleware' => 'checkAuth' ], function(){
     Route::get('/admin', 'AdminController@index');
+    Route::get('/admin/recipes', 'AdminController@recipes');
 });
 
 Route::get('/home', 'PagesController@index');

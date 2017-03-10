@@ -2,13 +2,15 @@
 
 @section('content')
 
-    <div class="navigation-title">404</div>
+    <header class="header-partners">
+        <h1>503</h1>
+    </header>
 
     <section class="lara-section">
     <div class="wrap">
 
         <div class="lara-row">Такой страницы тут нет</div>
-        <div class="lara-row"><a href="/">На главную</a></div>
+        <div class="lara-row-big"><a href="/">Вернуться на главную</a></div>
 
     </div>
     </section>

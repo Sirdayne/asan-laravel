@@ -359,9 +359,55 @@ $(document).ready(function(){
     
     /* RECIPES TO CATALOG LINK */
     
-    $('.tovar-button-wrap .recipe-btn').click(function(){
+    $('#js-catalog').click(function(){
         localStorage.setItem("catalogLink", "true");
     });
+
+    if (localStorage.catalogLink == "true"){
+        $('.catalog-filter').eq(1).click();
+        localStorage.setItem("catalogLink", "false");
+    }
+
+    /* RECIPES CHANGE COLORS */
+    var recipesRow = $('.recipe-box');
+    var coef = 0;
+
+    for(var i = 0; i < recipesRow.length ; i++){
+        coef = i % 4;
+
+        if(coef == 1){
+            recipesRow.eq(i).addClass('recipe-orange');
+        }
+        else if(coef == 2){
+            recipesRow.eq(i).addClass('recipe-green');
+        }
+        else if(coef == 3){
+            
+        }
+        else{
+            recipesRow.eq(i).addClass('recipe-blue');
+        }
+        
+    }
+
+    /* RECIPE STEPS CONSTRUCTOR */
+
+    $('#js-add-step').click(function () {
+        $('#js-steps').append('<div class="add-step"><textarea name="steps[]" class="lara-textarea-small" placeholder="Напишите шаг рецепта"></textarea><div class="step-delete"><img src="/assets/img/new-delete.png" alt=""></div></div>');
+    });
+
+    $('body').on('click','.step-delete',function(){
+        $(this).parents('.add-step').remove();
+    });
+
     
+
+    $('#js-add-ing').click(function () {
+        $('#js-ings').append('<div class="add-ing"><textarea name="ingredients[]" class="lara-textarea-small" placeholder="Напишите ингредиент"></textarea><div class="ing-delete"><img src="/assets/img/new-delete.png" alt=""></div></div>');
+    });
+
+    $('body').on('click','.ing-delete',function(){
+        $(this).parents('.add-ing').remove();
+    });
 });
 

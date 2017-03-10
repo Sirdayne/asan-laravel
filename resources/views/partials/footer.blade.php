@@ -88,6 +88,7 @@
 <script type="text/javascript">	
     jQuery(function($){$("#client-tel-for-consult").mask("+7(999)999-99-99");});
     jQuery(function($){$("#client-tel-for-consult-2").mask("+7(999)999-99-99");});
+    jQuery(function($){$("#client-tel-for-consult-3").mask("+7(999)999-99-99");});
 </script>
 
  <script>

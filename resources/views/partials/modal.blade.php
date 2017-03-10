@@ -25,7 +25,7 @@
                 {{ csrf_field() }}
                 <div class="btns-row">
                     <input type="text" name="name" placeholder="Имя" required>
-                    <input type="tel" id="client-tel-for-consult" name="telephone" placeholder="Телефон" required>
+                    <input type="tel" id="client-tel-for-consult-3" name="telephone" placeholder="Телефон" required>
                     <input type="hidden" id="js-production" name="product" value="Пусто">
                     <button class="send-btn btn-pur">Отправить</button>
                 </div>

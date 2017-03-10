@@ -2,29 +2,31 @@
 
 @section('content')
 
-    <div class="navigation-title">Авторизация</div>
+    <header class="header-partners">
+        <h1>Авторизация</h1>
+    </header>
 
     <section class="lara-section">
     <div class="wrap">
 
-    <h3>Введите почту и пароль</h3>
+        <h3>Введите почту и пароль</h3>
 
-    @if (count($errors))
-        <div>
-            @foreach ($errors->all() as $error)
-                <div>{{ $error }}</div>
+        @if (count($errors))
+            <div>
+                @foreach ($errors->all() as $error)
+                    <div>{{ $error }}</div>
 
-            @endforeach
-        </div>
-    @endif
+                @endforeach
+            </div>
+        @endif
 
-    <form method="POST" action="/login">
-        {{ csrf_field() }}
-        <input type="email" name="email" placeholder="Email">
-        <input type="password" name="password" placeholder="Пароль">
+        <form method="POST" action="/login">
+            {{ csrf_field() }}
+            <input type="email" name="email" placeholder="Email">
+            <input type="password" name="password" placeholder="Пароль">
 
-        <button type="submit" class="lara-btn">Отправить</button>
-    </form>
+            <button type="submit" class="lara-btn">Отправить</button>
+        </form>
 
     </div>
     </section>

@@ -12,7 +12,7 @@
 	<title>{{ $seo['title'] }}</title>
 	<meta name="description" content="{{ $seo['description'] }}">
 	@else
-    <title>As-An - </title>
+    <title>АС АН - Компания</title>
 	<meta name="description" content="Window Fashion - изготовление, монтаж ролл-штор и жалюзи">
     @endif
 

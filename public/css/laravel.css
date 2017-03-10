@@ -1,3 +1,43 @@
+.wrap{
+    width: 80%;
+    margin: auto;
+}
+.admin-recipe-box{
+    display: block;
+    padding: 15px;
+    margin: 15px auto;
+    width: 80%;
+    min-height: 130px;
+    box-sizing: border-box;
+
+    border: 1px solid #323232;
+}
+.admin-recipe-img{
+    float: left;
+    width: 100px;
+    height: 100px;
+
+    overflow: hidden;
+}
+.admin-recipe-img img{
+    height: 100%;
+}
+.admin-recipe-title{
+    float: left;
+    margin: 0 15px;
+    height: 100px;
+
+    line-height: 100px;
+    color: #323232;
+    font-size: 16px;
+}
+.admin-recipe-edit{
+    float: right;
+    height: 100px;
+}
+.admin-recipe-btn{
+    width: 180px;
+}
 .lara-panel{
     position: fixed;
     top: 50px;
@@ -11,7 +51,7 @@
     -webkit-transition: .4s cubic-bezier(.72,.9,.3,.15);
     transition: .4s cubic-bezier(.72,.9,.3,.15);
 
-    background: #5d4063;
+    background: #323232;
     border: 1px solid #fff;
 
     z-index: 10;
@@ -27,7 +67,7 @@
     height: 30px;
     width: 30px; 
     cursor: pointer;
-    background: #5d4063;
+    background: #323232;
 }
 .lara-b-1, .lara-b-2, .lara-b-3{
     position: absolute;
@@ -87,6 +127,26 @@
     font-size: 17px;
     margin: 25px 0;
 }
+.lara-section label{
+    display: block;
+    margin: 5px 5px 5px 0;
+
+    border: none;
+    outline: none;
+
+    font-family: "AgoraSansProMedium";
+
+    padding: 9px 25px;
+
+    border: 1px solid #d99647;
+    font-size: 15px;
+    color: #d99647;
+
+    width: 190px;
+
+    width: 350px;
+    max-width: 80%;
+}
 .lara-section input{
     display: block;
     margin: 5px 5px 5px 0;
@@ -94,11 +154,11 @@
     border: none;
     outline: none;
 
-    font-family: "GothamProRegular";
+    font-family: "AgoraSansProMedium";
 
     padding: 9px 25px;
 
-    border: 1px solid #5d4063;
+    border: 1px solid #323232;
     font-size: 15px;
 
     width: 190px;
@@ -107,7 +167,7 @@
     padding: 5px;
 
     font-size: 15px;
-    font-family: "GothamProLight";
+    font-family: "AgoraSansProMedium";
 }
 .lara-section input[type="file"]{
     border: none;
@@ -119,11 +179,11 @@
     border: none;
     outline: none;
 
-    font-family: "GothamProRegular";
+    font-family: "AgoraSansProMedium";
 
     padding: 9px 25px;
 
-    border: 1px solid #5d4063;
+    border: 1px solid #323232;
     font-size: 15px;
 
     height: 50px;
@@ -138,11 +198,11 @@
     border: none;
     outline: none;
 
-    font-family: "GothamProRegular";
+    font-family: "AgoraSansProMedium";
 
     padding: 9px 25px;
 
-    border: 1px solid #5d4063;
+    border: 1px solid #323232;
     font-size: 15px;
 
     height: 230px;
@@ -156,20 +216,76 @@
 
     border: none;
     outline: none;
-
+    font-family: "AgoraSansProMedium";
     padding: 9px 25px;
 
-    background: #5d4063;
+    background: #323232;
     color: #fff;
-    border: 1px solid #5d4063;
+    border: 1px solid #323232;
     font-size: 15px;
 
     -webkit-transition: .5s cubic-bezier(.18,.63,.89,.67);
     transition: .5s cubic-bezier(.18,.63,.89,.67);
 }
 .lara-section button:hover{
-    color: #5d4063;
+    color: #323232;
     background: #fff;
+}
+.lara-add-step{
+    display: block;
+    margin: 5px 5px 5px 0;
+    width: 110px;
+    text-align: center;
+
+    border: none;
+    outline: none;
+
+    padding: 9px 5px;
+
+    background: #323232;
+    color: #fff;
+    border: 1px solid #323232;
+    font-size: 15px;
+
+    -webkit-transition: .5s cubic-bezier(.18,.63,.89,.67);
+    transition: .5s cubic-bezier(.18,.63,.89,.67);
+    cursor: pointer;
+}
+.lara-add-step:hover{
+    color: #323232;
+    background: #fff;
+}
+.add-step{
+    position: relative;
+    width: 100%;
+}
+.step-delete{
+    position: absolute;
+    top: 5px;
+    left: -23px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+.step-delete img{
+    height: 20px;
+    width: auto;
+}
+.add-ing{
+    position: relative;
+    width: 100%;
+}
+.ing-delete{
+    position: absolute;
+    top: 5px;
+    left: -23px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+.ing-delete img{
+    height: 20px;
+    width: auto;
 }
 .lara-btn{
     display: block;
@@ -180,16 +296,16 @@
 
     padding: 9px 25px;
 
-    background: #5d4063;
+    background: #323232;
     color: #fff;
-    border: 1px solid #5d4063;
+    border: 1px solid #323232;
     font-size: 15px;
 
     -webkit-transition: .5s cubic-bezier(.18,.63,.89,.67);
     transition: .5s cubic-bezier(.18,.63,.89,.67);
 }
 .lara-btn:hover{
-    color: #5d4063;
+    color: #323232;
     background: #fff;
 }
 .lara-success{
@@ -220,8 +336,8 @@
     border-radius: 50%;
 
     background: rgba(0,0,0,0);
-    color: #5d4063;
-    border: 1px solid #5d4063;
+    color: #323232;
+    border: 1px solid #323232;
     font-size: 12px;
     text-align: center;
 
@@ -232,7 +348,7 @@
     color: #fff;
 }
 .pagination-box.active{
-    background: #5d4063;
+    background: #323232;
     color: #fff;
 }
 .lara-row{
@@ -246,22 +362,57 @@
     color: #323232;
     font-size: 17px;
 }
-.lara-admin{
+.lara-row-big{
     float: left;
     width: 100%;
-    margin: 2px 0;
+    box-sizing: border-box;
+
+    padding: 5px 0;
+}
+.lara-row-big a{
+    color: #323232;
+    font-size: 24px;
+}
+.lara-admin{
+    float: none;
+    display: block;
+
+    width: 30%;
+    min-width: 240px;
+    margin: 5px auto;
 
     color: #323232;
 
     box-sizing: border-box;
     border: 1px solid rgba(0,0,0,0.3);
-    -webkit-border-radius: 9px;
-    border-radius: 9px;
+
+    border: 1px solid #323232;
+    background: #323232;
+    color: #fff;
 
     text-align: center;
+    -webkit-transition: .4s cubic-bezier(.72,.9,.3,.15);
+    transition: .4s cubic-bezier(.72,.9,.3,.15);
 
     padding: 15px;
 }
 .lara-admin a{
+    color: #fff;
+}
+.lara-admin:hover{
+    background: #fff;
+    color: #323232;
+}
+.lara-admin-block{
+    display: block;
+    float: none;
+    width: 30%;
+    min-width: 200px;
+
+    padding: 20px;
+    margin: 15px auto;
+}
+.lara-admin-block:hover{
+    background: #fff;
     color: #323232;
 }

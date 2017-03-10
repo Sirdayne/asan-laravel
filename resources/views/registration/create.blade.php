@@ -2,7 +2,9 @@
 
 @section('content')
 
-    <div class="navigation-title">Регистрация</div>
+    <header class="header-partners">
+        <h1>Регистрация</h1>
+    </header>
 
     <section class="lara-section">
     <div class="wrap">
