@@ -125,23 +125,74 @@ class RecipesController extends Controller
 
         $recipe->title = $request->title;
 
+        // update steps
         if ($request->has('steps')){
-            $stepNum = -1;
-            foreach ($recipe->steps as $step) {
-                $stepNum++;
-                $step->body = $request->steps[$stepNum];
-                $step->update();
-            }
-        }
+            $step_num = -1;
+            foreach ($request->input('steps') as $step_body) {
 
-        if ($request->has('ingredients')){
-            $ingNum = -1;
-            foreach ($recipe->ingredients as $ingredient) {
-                $ingNum++;
-                $ingredient->body = $request->ingredients[$ingNum];
-                $ingredient->update();
+                $step_num++;
+                $step_id = $request->steps_id[$step_num];
+
+                if( $step_id > -1 ){
+                    $step = Step::findOrFail($step_id);
+                    $step->body = $step_body;
+                    $step->update();
+                }
+                else{
+                    Step::firstOrCreate(['recipe_id' => $recipe->id, 'body' => $step_body]);
+                }
             }
         }
+        //delete steps
+        if ($request->has('steps_delete')){
+
+            $step_nm = -1;
+            foreach ($request->input('steps_delete') as $step_delete) {
+
+                $step_nm++;
+                $step_id = $request->steps_id[$step_nm];
+
+                if( $step_delete == 0 ){
+                    $step = Step::findOrFail($step_id);
+                    $step->delete();
+                }
+            }
+        }
+        
+
+        //update ingredients
+        if ($request->has('ingredients')){
+            $ing_num = -1;
+            foreach ($request->input('ingredients') as $ingredient_body) {
+
+                $ing_num++;
+                $ing_id = $request->ings_id[$ing_num];
+
+                if( $ing_id > -1 ){
+                    $ingredient = Ingredient::findOrFail($ing_id);
+                    $ingredient->body = $ingredient_body;
+                    $ingredient->update();
+                }
+                else{
+                    Ingredient::firstOrCreate(['recipe_id' => $recipe->id, 'body' => $ingredient_body]);
+                }
+            }
+        }
+        //delete ingredients
+        if ($request->has('ings_delete')){
+            $ing_nm = -1;
+            foreach ($request->input('ings_delete') as $ing_delete) {
+
+                $ing_nm++;
+                $ing_id = $request->ings_id[$ing_nm];
+
+                if( $ing_delete == 0 ){
+                    $ingredient = Ingredient::findOrFail($ing_id);
+                    $ingredient->delete();
+                }
+            }
+        }
+        
 
 		if($request->hasFile('image')) {
             $file = Input::file('image');

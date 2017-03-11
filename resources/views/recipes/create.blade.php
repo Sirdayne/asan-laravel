@@ -29,7 +29,7 @@
         <input type="text" name="title" placeholder="Название рецепта">
         <input type="file" name="image">
 
-        <div id="js-add-ing" class="lara-add-step">+ ингредиент</div>
+        
         
         <div id="js-ings">
             <div class="add-ing">
@@ -45,9 +45,8 @@
                 <div class="ing-delete"><img src="/assets/img/new-delete.png" alt=""></div>
              </div>
         </div>
+        <div id="js-add-ing" class="lara-add-step">+ ингредиент</div>
 
-        <div id="js-add-step" class="lara-add-step">Добавить шаг</div>
-        
         <div id="js-steps">
             <div class="add-step">
                 <textarea name="steps[]" class="lara-textarea-small" placeholder="Напишите шаг рецепта"></textarea>
@@ -62,6 +61,7 @@
                 <div class="step-delete"><img src="/assets/img/new-delete.png" alt=""></div>
             </div>
         </div>
+        <div id="js-add-step" class="lara-add-step">+ шаг</div>
 
         <button type="submit">Отправить</button>
     </form>

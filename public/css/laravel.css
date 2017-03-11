@@ -146,6 +146,9 @@
     width: 350px;
     max-width: 80%;
 }
+.lara-disable{
+    background: rgba(225,55,55,1);
+}
 .lara-section input{
     display: block;
     margin: 5px 5px 5px 0;
@@ -258,6 +261,9 @@
     position: relative;
     width: 100%;
 }
+.line-through{
+    text-decoration: line-through;
+}
 .step-delete{
     position: absolute;
     top: 5px;
@@ -267,6 +273,18 @@
     cursor: pointer;
 }
 .step-delete img{
+    height: 20px;
+    width: auto;
+}
+.step-remove{
+    position: absolute;
+    top: 5px;
+    left: -23px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+.step-remove img{
     height: 20px;
     width: auto;
 }
@@ -283,6 +301,18 @@
     cursor: pointer;
 }
 .ing-delete img{
+    height: 20px;
+    width: auto;
+}
+.ing-remove{
+    position: absolute;
+    top: 5px;
+    left: -23px;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+.ing-remove img{
     height: 20px;
     width: auto;
 }
@@ -311,6 +341,10 @@
     float: left;
     width: 100%;
     color: rgb(55,255,75);
+    text-align: center;
+
+    box-sizing: border-box;
+    padding: 7px 0 2px;
 }
 .pagination {
     float: left;
@@ -343,7 +377,7 @@
     transition: .2s linear;
 }
 .pagination-box:hover{
-    background: #3d3261;
+    background: #8c8c8c;
     color: #fff;
 }
 .pagination-box.active{

@@ -393,21 +393,51 @@ $(document).ready(function(){
     /* RECIPE STEPS CONSTRUCTOR */
 
     $('#js-add-step').click(function () {
-        $('#js-steps').append('<div class="add-step"><textarea name="steps[]" class="lara-textarea-small" placeholder="Напишите шаг рецепта"></textarea><div class="step-delete"><img src="/assets/img/new-delete.png" alt=""></div></div>');
+        $('#js-steps').append('<div class="add-step"><textarea name="steps[]" class="lara-textarea-small" placeholder="Напишите шаг рецепта"></textarea><input type="hidden" name="steps_id[]" value="-1"><div class="step-delete"><img src="/assets/img/new-delete.png" alt=""></div></div>');
     });
 
     $('body').on('click','.step-delete',function(){
         $(this).parents('.add-step').remove();
     });
 
+    $('body').on('click','.step-remove',function(){
+        var removeIndex = $('.step-remove').index(this);
+        var removeVal = $('.step-remove-input').eq(removeIndex).val();
+
+        $('.js-step-txt').eq(removeIndex).toggleClass('line-through');
+
+        if (removeVal == 1){
+            $('.step-remove-input').eq(removeIndex).val(0);
+            $('.js-step-txt').eq(removeIndex).addClass('lara-disable');
+        }else{
+            $('.step-remove-input').eq(removeIndex).val(1);
+            $('.js-step-txt').eq(removeIndex).removeClass('lara-disable');
+        }
+    });
+
     
 
     $('#js-add-ing').click(function () {
-        $('#js-ings').append('<div class="add-ing"><input name="ingredients[]" placeholder="Напишите ингредиент"><div class="ing-delete"><img src="/assets/img/new-delete.png" alt=""></div></div>');
+        $('#js-ings').append('<div class="add-ing"><input name="ingredients[]" placeholder="Напишите ингредиент"><input type="hidden" name="ings_id[]" value="-1"><div class="ing-delete"><img src="/assets/img/new-delete.png" alt=""></div></div>');
     });
 
     $('body').on('click','.ing-delete',function(){
         $(this).parents('.add-ing').remove();
+    });
+
+    $('body').on('click','.ing-remove',function(){
+        var removeIndex2 = $('.ing-remove').index(this);
+        var removeVal2 = $('.ing-remove-input').eq(removeIndex2).val();
+
+        $('.js-ing-txt').eq(removeIndex2).toggleClass('line-through');
+
+        if (removeVal2 == 1){
+            $('.ing-remove-input').eq(removeIndex2).val(0);
+            $('.js-ing-txt').eq(removeIndex2).addClass('lara-disable');
+        }else{
+            $('.ing-remove-input').eq(removeIndex2).val(1);
+            $('.js-ing-txt').eq(removeIndex2).removeClass('lara-disable');
+        }
     });
 });
 

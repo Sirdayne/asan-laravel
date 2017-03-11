@@ -29,14 +29,36 @@
         <input type="hidden" name="id" value="{{ $recipe->id }}">
         <input type="text" name="title" placeholder="Заголовок" value="{{ $recipe->title }}">
         <input type="file" name="image">
-        <label for="ingredients">Ингредиенты:</label>
+
+
+        <!--<label for="ingredients">Ингредиенты:</label>-->
+        <div id="js-ings">
         @foreach($recipe->ingredients as $ingredient)
-            <input name="ingredients[]" placeholder="Напишите ингредиент" value="{{ $ingredient->body }}">
+            <div class="add-ing">
+                <input name="ingredients[]" class="js-ing-txt" placeholder="Напишите ингредиент" value="{{ $ingredient->body }}">
+                <input type="hidden" name="ings_id[]" value="{{ $ingredient->id }}">
+
+                <div class="ing-remove"><img src="/assets/img/new-remove.png" alt=""></div>
+                <input type="hidden" name="ings_delete[]" class="ing-remove-input" value="1">
+            </div>
         @endforeach
-        <label for="ingredients">Шаги рецепта:</label>
+        </div>
+        <div id="js-add-ing" class="lara-add-step">+ ингредиент</div>
+
+
+        <!--<label for="ingredients">Шаги рецепта:</label>-->
+        <div id="js-steps">
         @foreach($recipe->steps as $step)
-            <textarea name="steps[]" class="lara-textarea-small" placeholder="Напишите шаг рецепта">{{ $step->body }}</textarea>
+            <div class="add-step">
+                <textarea name="steps[]" class="lara-textarea-small js-step-txt" placeholder="Напишите шаг рецепта">{{ $step->body }}</textarea>
+                <input type="hidden" name="steps_id[]" value="{{ $step->id }}">
+
+                <div class="step-remove"><img src="/assets/img/new-remove.png" alt=""></div>
+                <input type="hidden" name="steps_delete[]" class="step-remove-input" value="1">
+            </div>
         @endforeach
+        </div>
+        <div id="js-add-step" class="lara-add-step">+ шаг</div>
 
         <button type="submit">Отправить</button>
     </form>
