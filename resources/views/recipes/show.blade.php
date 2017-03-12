@@ -69,14 +69,70 @@
     <section class="tovar-asan">
         <div class="ing-wrap">
             
-            <div class="tovar-left">
-                <img src="/assets/img/t-1.png" alt="">
-            </div>
-            <div class="tovar-right">
-                <div class="tovar-title">ПРОДУКЦИЯ АС АН</div>
-                <div class="tovar-desc">Длиннозерный рис пропаренный</div>
-                <div class="tovar-button-wrap"><a href="/catalog"><button class="recipe-btn" id="js-catalog">перейти в каталог</button></a></div>
-            </div>
+            @if ( $recipe->product == 1)
+                <div class="tovar-left">
+                    <img src="/assets/img/t-1.png" alt="">
+                </div>
+                <div class="tovar-right">
+                    <div class="tovar-title">ПРОДУКЦИЯ АС АН</div>
+                    <div class="tovar-desc">Длиннозерный рис пропаренный</div>
+                    <div class="tovar-button-wrap"><a href="/catalog"><button class="recipe-btn" id="js-catalog">перейти в каталог</button></a></div>
+                </div>
+            @elseif ( $recipe->product == 2)
+                <div class="tovar-left">
+                    <img src="/assets/img/t-3.png" alt="">
+                </div>
+                <div class="tovar-right">
+                    <div class="tovar-title">ПРОДУКЦИЯ АС АН</div>
+                    <div class="tovar-desc">Макаронные изделия из муки твердой пшеницы</div>
+                    <div class="tovar-button-wrap"><a href="/catalog"><button class="recipe-btn" id="js-catalog">перейти в каталог</button></a></div>
+                </div>
+            @elseif ( $recipe->product == 3)
+                <div class="tovar-left">
+                    <img src="/assets/img/t-4.png" alt="">
+                </div>
+                <div class="tovar-right">
+                    <div class="tovar-title">ПРОДУКЦИЯ АС АН</div>
+                    <div class="tovar-desc">Изделия макаронные из пшеничной муки</div>
+                    <div class="tovar-button-wrap"><a href="/catalog"><button class="recipe-btn" id="js-catalog">перейти в каталог</button></a></div>
+                </div>
+            @elseif ( $recipe->product == 4)
+                <div class="tovar-left">
+                    <img src="/assets/img/t-5.png" alt="">
+                </div>
+                <div class="tovar-right">
+                    <div class="tovar-title">ПРОДУКЦИЯ АС АН</div>
+                    <div class="tovar-desc">Гречневая крупа</div>
+                    <div class="tovar-button-wrap"><a href="/catalog"><button class="recipe-btn" id="js-catalog">перейти в каталог</button></a></div>
+                </div>
+            @elseif ( $recipe->product == 5)
+                <div class="tovar-left">
+                    <img src="/assets/img/t-6.png" alt="">
+                </div>
+                <div class="tovar-right">
+                    <div class="tovar-title">ПРОДУКЦИЯ АС АН</div>
+                    <div class="tovar-desc">Сгущенное молоко вареное с сахаром Лакомка</div>
+                    <div class="tovar-button-wrap"><a href="/catalog"><button class="recipe-btn" id="js-catalog">перейти в каталог</button></a></div>
+                </div>
+            @elseif ( $recipe->product == 6)
+                <div class="tovar-left">
+                    <img src="/assets/img/t-7.png" alt="">
+                </div>
+                <div class="tovar-right">
+                    <div class="tovar-title">ПРОДУКЦИЯ АС АН</div>
+                    <div class="tovar-desc">Молоко цельное сгущенное с сахаром</div>
+                    <div class="tovar-button-wrap"><a href="/catalog"><button class="recipe-btn" id="js-catalog">перейти в каталог</button></a></div>
+                </div>
+            @else 
+                <div class="tovar-left">
+                    <img src="/assets/img/t-8.png" alt="">
+                </div>
+                <div class="tovar-right">
+                    <div class="tovar-title">ПРОДУКЦИЯ АС АН</div>
+                    <div class="tovar-desc">Пшеничная мука высший сорт</div>
+                    <div class="tovar-button-wrap"><a href="/catalog"><button class="recipe-btn" id="js-catalog">перейти в каталог</button></a></div>
+                </div>
+            @endif
             
         </div>
     </section>

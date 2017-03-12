@@ -61,14 +61,52 @@
         <div id="js-add-step" class="lara-add-step">+ шаг</div>
 
         <label for="ingredients">Выберите продукцию АС АН:</label>
-        <select class="lara-select" selected="{{ $recipe->product }}" name="product">
-           	<option value="1">Длиннозерный рис пропаренный</option>
-            <option value="2">Макаронные изделия из муки твердой пшеницы</option>
-            <option value="3">Изделия макаронные из пшеничной муки</option>
-            <option value="4">Гречневая крупа</option>
-            <option value="5">Сгущенное молоко вареное с сахаром Лакомка</option>
-            <option value="6">Молоко цельное сгущенное с сахаром</option>
-            <option value="7">Пшеничная мука высший сорт</option>
+        <select class="lara-select" name="product">
+
+            @if ( $recipe->product == 1)
+           	    <option value="1" selected>Длиннозерный рис пропаренный</option>
+            @else
+                <option value="1">Длиннозерный рис пропаренный</option>
+            @endif
+
+                
+            @if ( $recipe->product == 2)
+                <option value="2" selected>Макаронные изделия из муки твердой пшеницы</option>
+            @else
+                <option value="2">Макаронные изделия из муки твердой пшеницы</option>
+            @endif
+
+                
+            @if ( $recipe->product == 3)
+                <option value="3" selected>Изделия макаронные из пшеничной муки</option>
+            @else
+                <option value="3">Изделия макаронные из пшеничной муки</option>
+            @endif
+
+            @if ( $recipe->product == 4)
+                <option value="4" selected>Гречневая крупа</option>
+            @else
+                <option value="4">Гречневая крупа</option>
+            @endif
+
+            @if ( $recipe->product == 5)
+                <option value="5" selected>Сгущенное молоко вареное с сахаром Лакомка</option>
+            @else
+                <option value="5">Сгущенное молоко вареное с сахаром Лакомка</option>
+            @endif
+
+            @if ( $recipe->product == 6)
+                <option value="6" selected>Молоко цельное сгущенное с сахаром</option>
+            @else
+                <option value="6">Молоко цельное сгущенное с сахаром</option>
+            @endif
+
+            @if ( $recipe->product == 7)
+                <option value="7" selected>Пшеничная мука высший сорт</option>
+            @else
+                <option value="7">Пшеничная мука высший сорт</option>
+            @endif
+
         </select>
 
         <button type="submit">Отправить</button>

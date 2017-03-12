@@ -141,7 +141,7 @@ class RecipesController extends Controller
                     $step->update();
                 }
                 else{
-                    Step::firstOrCreate(['recipe_id' => $recipe->id, 'body' => $step_body]);
+                    Step::create(['recipe_id' => $recipe->id, 'body' => $step_body]);
                 }
             }
         }
@@ -176,7 +176,7 @@ class RecipesController extends Controller
                     $ingredient->update();
                 }
                 else{
-                    Ingredient::firstOrCreate(['recipe_id' => $recipe->id, 'body' => $ingredient_body]);
+                    Ingredient::create(['recipe_id' => $recipe->id, 'body' => $ingredient_body]);
                 }
             }
         }

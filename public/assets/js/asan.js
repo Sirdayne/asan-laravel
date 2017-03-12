@@ -388,7 +388,7 @@ $(document).ready(function(){
             recipesRow.eq(i).addClass('recipe-green');
         }
         else if(coef == 3){
-            
+            recipesRow.eq(i).addClass('recipe-pink');
         }
         else{
             recipesRow.eq(i).addClass('recipe-blue');

@@ -1723,6 +1723,9 @@ body{
 .recipe-green{
     background: #9bca5a;
 }
+.recipe-pink{
+    background: #feb692;
+}
 
 .recipe-title{
     float: left;
