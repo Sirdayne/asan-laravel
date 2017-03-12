@@ -1635,7 +1635,7 @@ body{
     width: 100%;
     margin-top: 45px;
 }
-.a-contacts input, .modal input{
+.a-contacts input, .modal input, .modal-catalog input{
     display: inline-block;
     border: none;
     outline: none;

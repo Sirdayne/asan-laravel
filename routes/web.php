@@ -37,8 +37,8 @@ Route::post('/login', 'SessionsController@store');
 Route::get('/logout', 'SessionsController@destroy');
 
 Route::group( ['middleware' => 'checkAuth' ], function(){
-    Route::get('/admin', 'AdminController@index');
     Route::get('/admin/recipes', 'AdminController@recipes');
+    Route::get('/admin', 'AdminController@index');
 });
 
 Route::get('/home', 'PagesController@index');

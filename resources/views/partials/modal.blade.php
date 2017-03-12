@@ -21,7 +21,7 @@
 
             <div class="modal-title">Оставьте ваши данные</div>
 
-            <form method="POST" action="/feedback/send_mail">
+            <form method="POST" action="/feedback/send_catalog">
                 {{ csrf_field() }}
                 <div class="btns-row">
                     <input type="text" name="name" placeholder="Имя" required>

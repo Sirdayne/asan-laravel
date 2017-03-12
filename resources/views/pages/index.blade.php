@@ -71,7 +71,7 @@
         <h1>НАДЕЖНЫЙ ПОСТАВЩИК НАТУРАЛЬНЫХ ТОВАРОВ
             НА ПРОДОВОЛЬСТВЕННОМ РЫНКЕ КАЗАХСТАНА</h1>
             
-        <a href="catalog.html"><button class="h-btn-1"><p>посмотреть каталог</p></button></a>
+        <a href="/catalog"><button class="h-btn-1"><p>посмотреть каталог</p></button></a>
         <button class="h-btn-2 jk"><p>запросить прайс-лист</p></button>
         
         <div class="h-slide">

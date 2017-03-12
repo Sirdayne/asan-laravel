@@ -297,6 +297,7 @@ $(document).ready(function(){
     $('.modal-back, .modal-close').click(function() {
         $('.modal-back').fadeOut('fast');
         $('.modal').fadeOut('fast');
+        $('.modal-catalog').fadeOut('fast');
         $('.thx').fadeOut('fast');
     });
     
@@ -305,6 +306,11 @@ $(document).ready(function(){
         $('.modal').fadeIn('fast');
     });
     
+    $('.jkc').click(function() {
+        $('.modal-back').fadeIn('fast');
+        $('.modal-catalog').fadeIn('fast');
+    });
+
     var modalH = $('.modal').height();
     modalH = modalH + 50;
     $('.modal-border').css('height', modalH + 'px');
@@ -415,7 +421,9 @@ $(document).ready(function(){
         }
     });
 
-    
+    setTimeout(function(){
+        $('.js-lara-thx').fadeOut('4000');
+    },2000);
 
     $('#js-add-ing').click(function () {
         $('#js-ings').append('<div class="add-ing"><input name="ingredients[]" placeholder="Напишите ингредиент"><input type="hidden" name="ings_id[]" value="-1"><div class="ing-delete"><img src="/assets/img/new-delete.png" alt=""></div></div>');

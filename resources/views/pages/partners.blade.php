@@ -79,16 +79,11 @@
          </div>
          
          <div class="a-form">
-            <form method="post" action="">
-                <!-- Hidden Required Fields -->
-                <input type="hidden" name="project_name" value="asan.kz">
-                <input type="hidden" name="admin_email" value="tester@ginnova.kz">
-                <input type="hidden" name="form_subject" value="Заявка">
-                <!-- END Hidden Required Fields -->
-
+            <form method="POST" action="/feedback/send_mail">
+                {{ csrf_field() }}
                 <div class="btns-row">
-                    <input type="text" name="Имя" placeholder="Имя" required>
-                    <input type="tel" id="client-tel-for-consult" name="Телефон" placeholder="Телефон" required>
+                    <input type="text" name="name" placeholder="Имя" required>
+                    <input type="tel" id="client-tel-for-consult-2" name="telephone" placeholder="Телефон" required>
                     <button class="send-btn">Отправить</button>
                 </div>
             </form>

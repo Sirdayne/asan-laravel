@@ -59,11 +59,12 @@ class RecipesController extends Controller
 
         $recipe = new Recipe();
         $this->validate($request, [
-            'title' => 'required|min:3|max:45',
-            'image' => 'required',
+            'title' => 'required',
+            'product' => 'required'
         ]);
 
         $recipe->title = $request->title;
+        $recipe->product = $request->product;
 
         $recipe->save();
 
@@ -120,10 +121,11 @@ class RecipesController extends Controller
         $recipe = Recipe::findOrFail($request->id);
 
         $this->validate($request, [
-            'title' => 'required|min:3|max:45',
+            'title' => 'required',
         ]);
 
         $recipe->title = $request->title;
+        $recipe->product = $request->product;
 
         // update steps
         if ($request->has('steps')){

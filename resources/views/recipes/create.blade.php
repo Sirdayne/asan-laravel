@@ -63,6 +63,17 @@
         </div>
         <div id="js-add-step" class="lara-add-step">+ шаг</div>
 
+        <label for="ingredients">Выберите продукцию АС АН:</label>
+        <select class="lara-select" name="product">
+           	<option value="1">Длиннозерный рис пропаренный</option>
+            <option value="2">Макаронные изделия из муки твердой пшеницы</option>
+            <option value="3">Изделия макаронные из пшеничной муки</option>
+            <option value="4">Гречневая крупа</option>
+            <option value="5">Сгущенное молоко вареное с сахаром Лакомка</option>
+            <option value="6">Молоко цельное сгущенное с сахаром</option>
+            <option value="7">Пшеничная мука высший сорт</option>
+        </select>
+
         <button type="submit">Отправить</button>
     </form>
 

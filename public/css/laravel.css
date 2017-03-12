@@ -171,6 +171,9 @@
     font-size: 15px;
     font-family: "AgoraSansProMedium";
 }
+.lara-select{
+    margin: 2px 0 25px;
+}
 .lara-section input[type="file"]{
     border: none;
 }

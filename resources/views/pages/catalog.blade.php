@@ -33,10 +33,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
 
@@ -47,10 +47,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 10 мес</div>
                     <div class="catalog-set">СТ 940140001313 - ТС-01-2015</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
 
@@ -61,10 +61,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
 
@@ -75,10 +75,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">СТ РК 1020 - 2000</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
 
@@ -89,10 +89,10 @@
                     <div class="catalog-set">Вес: 20 кг</div>
                     <div class="catalog-set">Срок хранения: 18 мес</div>
                     <div class="catalog-set">ГОСТ 6292-93</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
 
@@ -103,10 +103,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
 
@@ -117,10 +117,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
 
@@ -131,10 +131,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 20 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
 
@@ -145,10 +145,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
             </section>
@@ -162,10 +162,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -176,10 +176,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 10 мес</div>
                     <div class="catalog-set">ГОСТ 7022-97</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -190,10 +190,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -204,10 +204,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -218,10 +218,10 @@
                     <div class="catalog-set">Вес: 20 кг</div>
                     <div class="catalog-set">Срок хранения: 6 мес</div>
                     <div class="catalog-set">ГОСТ 6002-69</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -232,10 +232,10 @@
                     <div class="catalog-set">Вес: 5, 10, 25 кг</div>
                     <div class="catalog-set">Срок хранения: 48 мес</div>
                     <div class="catalog-set">ГОСТ 31361-2008</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -246,10 +246,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 18 мес</div>
                     <div class="catalog-set">ГОСТ 5784-60</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -260,10 +260,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 20 мес</div>
                     <div class="catalog-set">ГОСТ 6201-68</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -274,10 +274,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 18 мес</div>
                     <div class="catalog-set">ГОСТ 5784-60</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
             </section>
@@ -291,10 +291,10 @@
                     <div class="catalog-set">Вес: 50 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -305,10 +305,10 @@
                     <div class="catalog-set">Вес: 50 кг</div>
                     <div class="catalog-set">Срок хранения: 8 мес</div>
                     <div class="catalog-set">СТО 00936492-006-2016</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -319,10 +319,10 @@
                     <div class="catalog-set">Вес: 50 кг</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set">ГОСТ 7758-75</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -333,10 +333,10 @@
                     <div class="catalog-set">Вес: 50 кг</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set">ГОСТ 7758-75</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -347,10 +347,10 @@
                     <div class="catalog-set">Вес: 20 кг</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set">ГОСТ 7758-75</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -374,10 +374,10 @@
                     <div class="catalog-set">Вес: 900 Г</div>
                     <div class="catalog-set">Срок хранения: 48 мес</div>
                     <div class="catalog-set">ГОСТ 5784-60</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -388,10 +388,10 @@
                     <div class="catalog-set">Вес: 800 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ 6292-93</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -402,10 +402,10 @@
                     <div class="catalog-set">Вес: 800 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"> ГОСТ 7758-75</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -416,10 +416,10 @@
                     <div class="catalog-set">Вес: 800 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ 5784-60</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -430,10 +430,10 @@
                     <div class="catalog-set">Вес: 900 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"> ГОСТ 6201 - 68</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -444,10 +444,10 @@
                     <div class="catalog-set">Вес: 900 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -458,10 +458,10 @@
                     <div class="catalog-set">Вес: 750 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -472,10 +472,10 @@
                     <div class="catalog-set">Вес: 900 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ 572-60</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -486,10 +486,10 @@
                     <div class="catalog-set">Вес: 800 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set"> ГОСТ 6201 - 68</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -504,10 +504,10 @@
                     <div class="catalog-set">Вес: 900 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ 5550-74</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -518,10 +518,10 @@
                     <div class="catalog-set">Вес: 900 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ 6292-93</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -532,10 +532,10 @@
                     <div class="catalog-set">Вес: 800 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ 6292-93</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -546,10 +546,10 @@
                     <div class="catalog-set">Вес: 750 Г</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ 7758-75</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -575,10 +575,10 @@
                     <div class="catalog-set">Вес: 0,7 кг</div>
                     <div class="catalog-set">Срок хранения: 20 мес</div>
                     <div class="catalog-set">ГОСТ 7758-75</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -589,10 +589,10 @@
                     <div class="catalog-set">Вес: 0,7 кг</div>
                     <div class="catalog-set">Срок хранения: 18 мес</div>
                     <div class="catalog-set">ГОСТ 13213-7</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -603,10 +603,10 @@
                     <div class="catalog-set">Вес: 0,7 кг</div>
                     <div class="catalog-set">Срок хранения: 10 мес</div>
                     <div class="catalog-set">ГОСТ 6002-69</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -617,10 +617,10 @@
                     <div class="catalog-set">Вес: 0,7 кг</div>
                     <div class="catalog-set">Срок хранения: 15 мес</div>
                     <div class="catalog-set">ГОСТ 5784-60</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -631,10 +631,10 @@
                     <div class="catalog-set">Вес: 0,7 кг</div>
                     <div class="catalog-set">Срок хранения: 14 мес</div>
                     <div class="catalog-set">ГОСТ 276-60</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -645,10 +645,10 @@
                     <div class="catalog-set">Вес: 0,7 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ 6292-93</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -659,10 +659,10 @@
                     <div class="catalog-set">Вес: 0,7 кг</div>
                     <div class="catalog-set">Срок хранения: 24 мес</div>
                     <div class="catalog-set">ГОСТ 21-94</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -673,10 +673,10 @@
                     <div class="catalog-set">Вес: 0,7 кг</div>
                     <div class="catalog-set">Срок хранения: 10 мес</div>
                     <div class="catalog-set">ГОСТ 7022-97</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -687,10 +687,10 @@
                     <div class="catalog-set">Вес: 0,35 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ 21149-93</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -705,10 +705,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 18 мес</div>
                     <div class="catalog-set">ГОСТ 5784-60</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -719,10 +719,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 20 мес</div>
                     <div class="catalog-set">ГОСТ 5550 -74</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -733,10 +733,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 18 мес</div>
                     <div class="catalog-set">ГОСТ 6292-93</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -747,10 +747,10 @@
                     <div class="catalog-set">Вес: 0,7 кг</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set">ГОСТ 6292-93</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -761,10 +761,10 @@
                     <div class="catalog-set">Вес: 0,7 кг</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set">ГОСТ 572-60</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -775,10 +775,10 @@
                     <div class="catalog-set">Вес: 0,7 кг</div>
                     <div class="catalog-set">Срок хранения: 24 мес</div>
                     <div class="catalog-set">ГОСТ 6201-88</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -789,10 +789,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -803,10 +803,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -817,10 +817,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -836,10 +836,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -850,10 +850,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -864,10 +864,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 <div class="catalog-box">
@@ -877,10 +877,10 @@
                     <div class="catalog-set">Вес: 400 г</div>
                     <div class="catalog-set">Срок хранения: 18 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -891,10 +891,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -905,10 +905,10 @@
                     <div class="catalog-set">Вес: 450 г</div>
                     <div class="catalog-set">Срок хранения: 10 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 <div class="catalog-box border-bottom-none">
@@ -918,10 +918,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -932,10 +932,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 20 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -946,10 +946,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 24 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
             
@@ -964,10 +964,10 @@
                     <div class="catalog-set">Вес: 450 г</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -978,10 +978,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -992,10 +992,10 @@
                     <div class="catalog-set">Вес: 450 г</div>
                     <div class="catalog-set">Срок хранения: 9 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1006,10 +1006,10 @@
                     <div class="catalog-set">Вес: 500 г</div>
                     <div class="catalog-set">Срок хранения: 18 мес</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1034,10 +1034,10 @@
                     <div class="catalog-set">Вес: 400 г</div>
                     <div class="catalog-set">Срок хранения: 24 мес</div>
                     <div class="catalog-set">ГОСТ Р 51865-2010</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1048,10 +1048,10 @@
                     <div class="catalog-set">Вес: 1 кг</div>
                     <div class="catalog-set">Срок хранения: 24 мес</div>
                     <div class="catalog-set">ГОСТ Р 51865-2010</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1062,10 +1062,10 @@
                     <div class="catalog-set">Вес: 2 кг</div>
                     <div class="catalog-set">Срок хранения: 24 мес</div>
                     <div class="catalog-set">ГОСТ Р 51865-2010</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1076,10 +1076,10 @@
                     <div class="catalog-set">Вес: 5 кг</div>
                     <div class="catalog-set">Срок хранения: 24 мес</div>
                     <div class="catalog-set">ГОСТ Р 51865-2010</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1090,10 +1090,10 @@
                     <div class="catalog-set">Вес: 1 кг</div>
                     <div class="catalog-set">Срок хранения: 24 мес</div>
                     <div class="catalog-set">ГОСТ Р 51865-2010</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1104,10 +1104,10 @@
                     <div class="catalog-set">Вес: 400 г</div>
                     <div class="catalog-set">Срок хранения: 24 мес</div>
                     <div class="catalog-set">ГОСТ 31743-2012</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1118,10 +1118,10 @@
                     <div class="catalog-set">Вес: 1 кг</div>
                     <div class="catalog-set">Срок хранения: 24 мес</div>
                     <div class="catalog-set">ГОСТ 31743-2012</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1132,10 +1132,10 @@
                     <div class="catalog-set">Вес: 2 кг</div>
                     <div class="catalog-set">Срок хранения: 24 мес</div>
                     <div class="catalog-set">ГОСТ 31743-2012</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1146,10 +1146,10 @@
                     <div class="catalog-set">Вес: 1 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1165,10 +1165,10 @@
                     <div class="catalog-set">Вес: 2 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1179,10 +1179,10 @@
                     <div class="catalog-set">Вес: 2 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1193,10 +1193,10 @@
                     <div class="catalog-set">Вес: 5 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1207,10 +1207,10 @@
                     <div class="catalog-set">Вес: 10 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1221,10 +1221,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1235,10 +1235,10 @@
                     <div class="catalog-set">Вес: 50 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1249,10 +1249,10 @@
                     <div class="catalog-set">Вес: 2 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1263,10 +1263,10 @@
                     <div class="catalog-set">Вес: 5 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1277,10 +1277,10 @@
                     <div class="catalog-set">Вес: 10 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1294,10 +1294,10 @@
                     <div class="catalog-set">Вес: 25 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1308,10 +1308,10 @@
                     <div class="catalog-set">Вес: 50 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1322,10 +1322,10 @@
                     <div class="catalog-set">Вес: 50 кг</div>
                     <div class="catalog-set">Срок хранения: 12 мес</div>
                     <div class="catalog-set">ГОСТ Р 52189-2003</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1349,10 +1349,10 @@
                     <div class="catalog-set">Вес: 380 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set">ГОСТ 31688 - 2012 "Экстра"</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1363,10 +1363,10 @@
                     <div class="catalog-set">Вес: 380 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1377,10 +1377,10 @@
                     <div class="catalog-set">Вес: 380 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set">ГОСТ 31688 - 2012</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1391,10 +1391,10 @@
                     <div class="catalog-set">Вес: 380 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1405,10 +1405,10 @@
                     <div class="catalog-set">Вес: 600 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set">ГОСТ 31688-2012</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1419,10 +1419,10 @@
                     <div class="catalog-set">Вес: 380 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1433,10 +1433,10 @@
                     <div class="catalog-set">Вес: 95 Г</div>
                     <div class="catalog-set">Срок хранения: 3 года</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1447,10 +1447,10 @@
                     <div class="catalog-set">Вес: 380 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1461,10 +1461,10 @@
                     <div class="catalog-set">Вес: 340 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1479,10 +1479,10 @@
                     <div class="catalog-set">Вес: 270 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1493,10 +1493,10 @@
                     <div class="catalog-set">Вес: 340 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1507,10 +1507,10 @@
                     <div class="catalog-set">Вес: 315 Г</div>
                     <div class="catalog-set">Срок хранения: 3 года</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1521,10 +1521,10 @@
                     <div class="catalog-set">Вес: 340 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1535,10 +1535,10 @@
                     <div class="catalog-set">Вес: 315 Г</div>
                     <div class="catalog-set">Срок хранения: 3 года</div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1549,10 +1549,10 @@
                     <div class="catalog-set">Вес: 270 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1563,10 +1563,10 @@
                     <div class="catalog-set">Вес: 380 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1577,10 +1577,10 @@
                     <div class="catalog-set">Вес: 270 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1591,10 +1591,10 @@
                     <div class="catalog-set">Вес: 170 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1609,10 +1609,10 @@
                     <div class="catalog-set">Вес: 330 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1623,10 +1623,10 @@
                     <div class="catalog-set">Вес: 330 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1637,10 +1637,10 @@
                     <div class="catalog-set">Вес: 330 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set"></div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>
                 
@@ -1651,10 +1651,10 @@
                     <div class="catalog-set">Вес: 240 Г</div>
                     <div class="catalog-set"></div>
                     <div class="catalog-set">ГОСТ 16978-99</div>
-                    <div class="catalog-set"><button class="catalog-btn-mob jk">заказать</button></div>
+                    <div class="catalog-set"><button class="catalog-btn-mob jkc">заказать</button></div>
 
                     <div class="catalog-wrap">
-                        <div class="catalog-btn-row"><button class="catalog-btn jk">заказать</button></div>
+                        <div class="catalog-btn-row"><button class="catalog-btn jkc">заказать</button></div>
                     </div>
                 </div>    
                 

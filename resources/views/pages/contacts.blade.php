@@ -24,20 +24,13 @@
          <div class="contacts-title">ФОРМА ОБРАТНОЙ СВЯЗИ</div>
          
          <div class="a-form">
-            <form method="post" action="">
-                <!-- Hidden Required Fields -->
-                <input type="hidden" name="project_name" value="asan.kz">
-                <input type="hidden" name="admin_email" value="tester@ginnova.kz">
-                <input type="hidden" name="form_subject" value="Заявка">
-                <!-- END Hidden Required Fields -->
-                
+            <form method="POST" action="/feedback/send_contacts">
+                {{ csrf_field() }}
                 <div class="contacts-form">
-                   
-                    <div class="contacts-row"><input type="text" name="Имя" placeholder="Имя" required></div>
-                    <div class="contacts-row"><input type="tel" id="client-tel-for-consult" name="Телефон" placeholder="Телефон" required></div>
-                    <div class="contacts-row"><input type="tel" id="client-tel-for-consult" name="E-mail" placeholder="E-mail" required></div>
+                    <div class="contacts-row"><input type="text" name="name" placeholder="Имя" required></div>
+                    <div class="contacts-row"><input type="tel" id="client-tel-for-consult-2" name="telephone" placeholder="Телефон" required></div>
+                    <div class="contacts-row"><input type="email"  name="email" placeholder="E-mail" required></div>
                     <div class="contacts-row"><button class="send-btn">Отправить</button></div>
-                    
                 </div>
             </form>
          </div>
